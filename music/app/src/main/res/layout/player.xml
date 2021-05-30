@@ -6,9 +6,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#25272d">
-
-    
-  
         
 	<TextView
         android:id="@+id/songTitle"
@@ -17,7 +14,7 @@
         android:layout_centerHorizontal="true"
         android:textColor="@android:color/white"
         android:textSize="22sp"
-        android:text="Rock With You"
+        android:text="ชื่อแนวเพลง"
         android:layout_marginTop="50dp"/>
 	
 	<TextView
@@ -27,7 +24,7 @@
         android:layout_centerHorizontal="true"
         android:textColor="#80FFFFFF"
         android:textSize="15sp"
-        android:text="Michael Jackson"
+        android:text="ชื่อช่อง"
         android:layout_marginTop="10dp"
         android:layout_below="@+id/songTitle"/>
 	
@@ -51,17 +48,7 @@
         android:layout_width="match_parent"
         android:layout_height="220dp">
 		
-        <!--<ImageView
-			android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:id="@+id/ik"
-            android:layout_marginTop="8dp"
-            android:src="@drawable/adele"
-            android:layout_centerHorizontal="true"/>
-		-->
-		
-		
-		
+    
 		<FrameLayout
             android:id="@+id/sample3"
             android:layout_width="wrap_content"
@@ -82,9 +69,6 @@
         </FrameLayout>
     </RelativeLayout>
 
-	
-	
-	
     <LinearLayout
         android:id="@+id/player_footer_bg"
         android:layout_width="fill_parent"

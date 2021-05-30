@@ -3379,7 +3379,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0c0068;
         public static final int action_mode_bar_stub=0x7f0c0067;
         public static final int action_mode_close_button=0x7f0c004a;
-        public static final int action_search=0x7f0c00c1;
+        public static final int action_search=0x7f0c00c0;
         public static final int action_text=0x7f0c0094;
         public static final int actions=0x7f0c00a2;
         public static final int activity_chooser_view_content=0x7f0c004b;
@@ -3451,12 +3451,11 @@ containing a value of this type.
         public static final int line3=0x7f0c00a6;
         public static final int listMode=0x7f0c0037;
         public static final int list_item=0x7f0c004f;
-        public static final int masked=0x7f0c00c0;
+        public static final int masked=0x7f0c00bf;
         public static final int media_actions=0x7f0c0098;
-        public static final int menu1=0x7f0c00c2;
+        public static final int menu1=0x7f0c00c1;
         public static final int middle=0x7f0c0042;
         public static final int mini=0x7f0c002e;
-        public static final int mpv=0x7f0c00be;
         public static final int multiply=0x7f0c0032;
         public static final int navigation_header_container=0x7f0c008c;
         public static final int never=0x7f0c0046;
@@ -3553,7 +3552,7 @@ containing a value of this type.
         public static final int up=0x7f0c000e;
         public static final int useLogo=0x7f0c003e;
         public static final int view_offset_helper=0x7f0c0005;
-        public static final int visible=0x7f0c00bf;
+        public static final int visible=0x7f0c00be;
         public static final int withText=0x7f0c0047;
         public static final int wrap=0x7f0c0011;
         public static final int wrap_content=0x7f0c0040;
@@ -3636,7 +3635,6 @@ containing a value of this type.
         public static final int select_dialog_singlechoice_material=0x7f04003f;
         public static final int success=0x7f040040;
         public static final int support_simple_spinner_dropdown_item=0x7f040041;
-        public static final int test=0x7f040042;
     }
     public static final class menu {
         public static final int main=0x7f0f0000;
