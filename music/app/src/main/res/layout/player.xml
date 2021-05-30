@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#25272d">
+
+    
+  
+        
+	<TextView
+        android:id="@+id/songTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textColor="@android:color/white"
+        android:textSize="22sp"
+        android:text="Rock With You"
+        android:layout_marginTop="50dp"/>
+	
+	<TextView
+        android:id="@+id/art"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textColor="#80FFFFFF"
+        android:textSize="15sp"
+        android:text="Michael Jackson"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/songTitle"/>
+	
+	<com.olaapp.playerview.MusicPlayerView
+		android:id="@+id/ik"
+		android:layout_width="270dp"
+		android:layout_height="270dp"
+		android:layout_centerHorizontal="true"
+		android:layout_marginTop="8dp"
+		android:paddingLeft="15dp"
+		android:layout_below="@+id/art"
+		app:textSize = "14sp"
+		app:textColor = "#80FFFFFF"
+		app:buttonColor = "#ff0028"
+		app:progressLoadedColor = "#00815e"/>
+    
+	<RelativeLayout
+		android:id="@+id/sample2"
+		android:layout_marginTop="8dp"
+		android:layout_below="@+id/player_header_bg"
+        android:layout_width="match_parent"
+        android:layout_height="220dp">
+		
+        <!--<ImageView
+			android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/ik"
+            android:layout_marginTop="8dp"
+            android:src="@drawable/adele"
+            android:layout_centerHorizontal="true"/>
+		-->
+		
+		
+		
+		<FrameLayout
+            android:id="@+id/sample3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/circle_white"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_margin="15dp">
+            <com.taishi.library.Indicator
+                android:id="@+id/indicator3"
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:layout_margin="10dp"
+                app:bar_num="3"
+                app:bar_color="#fff"
+                app:step_num="10"
+                app:duration="3000"/>
+        </FrameLayout>
+    </RelativeLayout>
+
+	
+	
+	
+    <LinearLayout
+        android:id="@+id/player_footer_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+		android:layout_below="@+id/ik"
+        android:layout_marginTop="50dp"
+        android:background="#25272d"
+        android:gravity="center">
+
+       
+        <LinearLayout
+			android:id="@+id/playerLinearLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:padding="5dp"
+            >
+          
+
+            <ImageButton
+                android:id="@+id/btnBackward"
+                android:src="@drawable/btn_backward"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:layout_marginRight="20dp"/>
+          
+            <ImageButton
+                android:id="@+id/btnPlay"
+                android:src="@drawable/plqay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"/>
+           
+            <ImageButton
+                android:id="@+id/btnForward"
+                android:src="@drawable/btn_forward"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:layout_marginLeft="20dp"/>
+            
+
+        </LinearLayout>
+    </LinearLayout>
+
+    
+    <SeekBar
+        android:id="@+id/songProgressBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="20dp"
+
+        android:layout_below="@+id/player_footer_bg"
+        android:thumb="@drawable/seek_handler"
+        android:progressDrawable="@drawable/seekbar_progress"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"/>
+
+   
+    <LinearLayout
+        android:id="@+id/timerDisplay"
+        android:layout_above="@id/songProgressBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="10dp">
+        
+        <TextView
+            android:id="@+id/songCurrentDurationLabel"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:textColor="#eeeeee"
+            android:textStyle="bold"/>
+       
+        <TextView
+            android:id="@+id/songTotalDurationLabel"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:textColor="#FF2ABFFF"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    
+  
+</RelativeLayout>
