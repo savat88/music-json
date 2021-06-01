@@ -8,6 +8,4 @@
 License
 -------
 
-ไทยเรดิโอ
-คุณสามารถสอบถามได้ [ที่นี่]
-(https://www.facebook.com/savat54savat).
+ไทยเรดิโอ[ที่นี่](https://www.facebook.com/savat54savat).
