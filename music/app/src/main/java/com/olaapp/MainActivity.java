@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity implements SearchView.OnQuer
     }
 
     public void savatjson() {
-        String url = "https://pastebin.com/raw/rXdF4NwK";
+        String url = "https://pastebin.com/raw/rXdF4NwK";//ตัวอย่างการเขียนjson
 
         JsonArrayRequest ssa = new JsonArrayRequest(url,
                 new Response.Listener<JSONArray>() {
@@ -70,12 +70,13 @@ public class MainActivity extends AppCompatActivity implements SearchView.OnQuer
                             } catch (JSONException e) {
                                 e.printStackTrace();
                             }
-                        }  //กูงงกับตรงนี้แหละ
+                        } 
 
                         albumAdapter.notifyDataSetChanged();
                     }
                 }, new Response.ErrorListener() {
             @Override
+              //เช็คลิ้งผิด
             public void onErrorResponse(VolleyError error) {
                 VolleyLog.d(TAG, "Error: " + error.getMessage());
 
@@ -91,9 +92,9 @@ public class MainActivity extends AppCompatActivity implements SearchView.OnQuer
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.main, menu);
-        MenuItem menuItem = menu.findItem(R.id.action_search);
+        MenuItem menuItem = menu.findItem(R.id.action_search);//ไอดีค้นหา
         SearchView searchView = (SearchView) MenuItemCompat.getActionView(menuItem);
-        searchView.setQueryHint("ค้นหา เช่น เพื่อชีวิต สตริง");
+        searchView.setQueryHint("ค้นหา เช่น เพื่อชีวิต สตริง");//ส่วนหัวค้นหา
         searchView.setOnQueryTextListener(this);
         return true;
     }
@@ -103,7 +104,7 @@ public class MainActivity extends AppCompatActivity implements SearchView.OnQuer
     public boolean onQueryTextSubmit(String query) {
         return false;
     }
-
+    //เมนูค้นหาจากตัวอย่างจะหาจากแนวเพลง (Song)
     @Override
     public boolean onQueryTextChange(String newText) {
         newText = newText.toLowerCase();
