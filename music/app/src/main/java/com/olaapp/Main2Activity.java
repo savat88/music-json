@@ -74,11 +74,8 @@ public class Main2Activity extends Activity implements OnCompletionListener, See
         ImageButton btnBackward = (ImageButton) findViewById(R.id.btnBackward);
         
 		mpv = (MusicPlayerView) findViewById(R.id.ik);
-      //  imageView = (ImageView) findViewById(R.id.ik);
-      //  Glide.with(Main2Activity.this).load(image).into(imageView);
 		mpv.setMax(100);
 		mpv.setProgress(0);
-		
 		mpv.setCoverURL(image);
 		mpv.setOnClickListener(new View.OnClickListener() {
 				@Override public void onClick(View v) {
@@ -108,7 +105,7 @@ public class Main2Activity extends Activity implements OnCompletionListener, See
 					btnPlay1.performClick(); //performClick = กดออโต้
 					mpv.start();
 				}
-			}, 500);
+			}, 500);//หน่วยเวลาครึ่งวิถึงจะทำงาน ตัวอย่างถ้า1วิใส่1000
 	
         btnPlay.setOnClickListener(new View.OnClickListener() {
 
@@ -144,7 +141,7 @@ public class Main2Activity extends Activity implements OnCompletionListener, See
 						
                         if (!mp.isPlaying()) {
                             mp.start();
-							//saveData();
+							
                             btnPlay.setImageResource(R.drawable.ic_pause);
 							
                         } else {
@@ -235,18 +232,6 @@ public class Main2Activity extends Activity implements OnCompletionListener, See
 	
 	private void showNotification() {
         Banner.make(testview, savat,Banner.SUCCESS,"ชื่อช่อง: " + artists ,Banner.TOP,5000).show();
-    }
-	
-	
-	public void saveData() {
-        SharedPreferences sharedPreferences = getSharedPreferences(SHARED_PREFS, MODE_PRIVATE);
-        SharedPreferences.Editor editor = sharedPreferences.edit();
-        
-        editor.putBoolean(SAVAT, mp.isPlaying());
-
-        editor.apply();
-
-        Toast.makeText(this, "เทสการทำงาน", Toast.LENGTH_SHORT).show();
     }
 	
     public void updateProgressBar() {
