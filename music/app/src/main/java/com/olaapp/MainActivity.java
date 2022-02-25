@@ -60,12 +60,15 @@ public class MainActivity extends AppCompatActivity implements SearchView.OnQuer
                         Log.d(TAG, response.toString());
 
                         for (int i = 0; i < response.length(); i++) {
-                            try {
-                                JSONObject obj = response.getJSONObject(i);
-                                Album movie = new Album(obj.getString("song"), obj.getString("url"),
-                                        obj.getString("artists"), obj.getString("cover_image"));
-										
-                                list.add(movie);
+                          try {
+                              JSONObject obj = response.getJSONObject(i);
+                                Album movie = new Album(
+				  obj.getString("song"),
+				  obj.getString("url"),
+                                  obj.getString("artists"), 
+				  obj.getString("cover_image"));
+							  
+				  list.add(movie);
 
                             } catch (JSONException e) {
                                 e.printStackTrace();
