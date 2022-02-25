@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity implements SearchView.OnQuer
         recyclerView = (RecyclerView) findViewById(R.id.recyclerview);
         list = new ArrayList<>();
         albumAdapter = new AlbumAdapter(this, list);
-        lLayout = new GridLayoutManager(MainActivity.this, 2);
+        lLayout = new GridLayoutManager(MainActivity.this, 3);
         recyclerView.setLayoutManager(lLayout);
         recyclerView.setAdapter(albumAdapter);
 
