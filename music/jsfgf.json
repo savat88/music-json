@@ -56,6 +56,20 @@
     "hls": 0
   },
   {
+    "stationuuid": "63d76912-6cdd-11e8-b15b-52543be04c81",
+    "name": "GreenWave 106.5",
+    "url": "https://atimeonline.smartclick.co.th/green",
+    "favicon": "https://myradiobucket.s3-eu-west-1.amazonaws.com/TH_6_GreenWave+106.5.jpg",
+    "tags": "106.5 FM,Talk,Easy listening",
+    "countrycode": "TH",
+    "state": "Bangkok",
+    "language": "thai",
+    "votes": 66,
+    "codec": "AAC",
+    "bitrate": 130,
+    "hls": 0
+  },
+  {
     "stationuuid": "630a468c-a765-4ff0-94f4-f932fe5d0621",
     "name": "ลูกทุ่งเน็ตเวิร์ก (Lukthung Network)",
     "url": "http://media.login.in.th:8200/;stream.mp3",
