@@ -44,6 +44,21 @@
     "bitrate": 128,
     "hls": 1
   },
+{
+    "stationuuid": "964933ea-0647-11e8-ae97-52543be04c81",
+    "name": "RequestRadio สตริง",
+    "url": "http://cast.requestradio.in.th:8100/stream",
+    "surl":"http://cast.requestradio.in.th:8100/currentsong?sid=1",
+    "favicon": "https://myradiobucket.s3-eu-west-1.amazonaws.com/TH_7_requestradio.jpg",
+    "tags": "Pop,Music",
+    "countrycode": "TH",
+    "state": "Bangkok",
+    "language": "thai,english",
+    "votes": 182,
+    "codec": "MP3",
+    "bitrate": 128,
+    "hls": 0
+  },
   {
     "stationuuid": "f0f0eb3c-6d35-11e8-b15b-52543be04c81",
     "name": "99 Active Radio",
@@ -91,7 +106,7 @@
   },
   {
     "stationuuid": "96417892-0601-11e8-ae97-52543be04c81",
-    "name": "RequestRadio",
+    "name": "RequestRadio เพื่อชีวิต",
     "url": "http://27.254.142.208:8300/stream/1/",
     "surl":"http://27.254.142.208:8300/currentsong?sid=1",
     "favicon": "https://myradiobucket.s3-eu-west-1.amazonaws.com/TH_7_requestradio.jpg",
