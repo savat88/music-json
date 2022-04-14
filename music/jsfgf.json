@@ -167,7 +167,7 @@
   {
     "stationuuid": "1f09564f-6cde-11e8-b15b-52543be04c81",
     "name": "Chill Online",
-    "url": "http://real3.atimemedia.com/live/chill.sdp/playlist.m3u8",
+    "url": "https://atimeonline.smartclick.co.th:443/chill",
     "surl":"",
     "favicon": "https://myradiobucket.s3-eu-west-1.amazonaws.com/TH_22_Chill+FM+Online.jpg",
     "tags": "Easy listening,Music",
