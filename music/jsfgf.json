@@ -29,6 +29,21 @@
     "bitrate": 128,
     "hls": 0
   },
+{
+    "stationuuid": "964933ea-0607-11e8-ae97-52543be04c81",
+    "name": "Flex 104.5",
+    "url": "http://shoutcast.flexconnect.net/listen.pls",
+    "surl":"",
+    "favicon": "https://op-static.files.joox.com/weaver/Flex104-1624354175853.5-1624354175853.jpg",
+    "tags": "Pop,Music",
+    "countrycode": "TH",
+    "state": "Bangkok",
+    "language": "thai,english",
+    "votes": 182,
+    "codec": "MP3",
+    "bitrate": 128,
+    "hls": 0
+  },
   {
     "stationuuid": "4bdcbd8a-70a9-11e8-83fa-52543be04c81",
     "name": "FM 95 ลูกทุ่งมหานคร",
