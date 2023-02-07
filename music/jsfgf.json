@@ -47,7 +47,7 @@
   {
     "stationuuid": "4bdcbd8a-70a9-11e8-83fa-52543be04c81",
     "name": "FM 95 ลูกทุ่งมหานคร",
-    "url": "https://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/playlist.m3u8",
+    "url": "https://rcdn.mcot.net/radiocdn_edge/fm95.stream_aac/chunklist.m3u8",
     "surl":"",
     "favicon": "https://myradiobucket.s3-eu-west-1.amazonaws.com/TH_2_%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3+(HLS).jpg",
     "tags": "90.5 FM,Music,Folk",
@@ -92,7 +92,7 @@
   {
     "stationuuid": "f0f0eb3c-6d35-11e8-b15b-52543be04c81",
     "name": "99 Active Radio",
-    "url": "https://mcotdigital-gvwieh.cdn.byteark.com/radiocdn_edge/fm99.stream_aac/playlist.m3u8",
+    "url": "https://rcdn.mcot.net/radiocdn_edge/fm99.stream_aac/chunklist.m3u8",
     "surl":"",
     "favicon": "https://myradiobucket.s3-eu-west-1.amazonaws.com/TH_3_99+Active+Radio+(HLS).jpg",
     "tags": "99.0 FM,Sports,Talk,News",
