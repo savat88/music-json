@@ -1048,5 +1048,20 @@
     "codec": "MP3",
     "bitrate": 128,
     "hls": 0
+  },
+{
+    "stationuuid": "961fec84-0601-11e8-ae97-52543be04e20",
+    "name": "String WOW Radio",
+    "url": "http://203.159.93.109:8010/radio;stream.mp3",
+    "surl":"http://203.159.93.109:8010/currentsong?sid=1",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/narggyy4pjdz.jpeg",
+    "tags": "County,Music",
+    "countrycode": "TH",
+    "state": "",
+    "language": "thailand",
+    "votes": 96,
+    "codec": "MP3",
+    "bitrate": 128,
+    "hls": 0
   }
 ]
