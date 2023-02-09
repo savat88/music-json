@@ -1,7 +1,7 @@
 [
 {"name":"Sports [แหละ]😁",
 "image":"https://www.freepnglogos.com/uploads/sport-png/sport-sports-management-asb-online-34.png",
-"url":"https://drive.google.com/uc?id=1snAV4rfzlpmlDlcOlRFM0dWbEsntPv-d",
+"url":"https://raw.githubusercontent.com/savat88/music-json/main/music/Sports%20%E0%B9%81%E0%B8%AB%E0%B8%A5%E0%B8%B0.txt",
 "import": false},
 
 
