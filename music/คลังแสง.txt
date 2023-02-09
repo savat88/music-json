@@ -1,14 +1,4 @@
-{
-"name":"☢️Th3 RepubliC☢️",
-"author":"By..♭ขεคûโปکの ดูเท่าที่มีไปก่อนนะ ⚠️อยากดูอะไรก็ขอมา👌🏻👌🏻",
-"info":"By..♭ขεคûโปکの",
-"image":"https://drive.google.com/uc?id=1zIfzeCoBbY1sV1AlBSDD_cmZLuBRK1P2",
-"url":"https://bit.ly/3qrZU6Y",
-		
-		
-"groups": [
-
-
+[
 {
 "name":"‼️ปล.สัญญาณดับหรือติดขึ้นอยู่กับเว็ปต้นทาง‼️",
 "image":"https://cdn.iconscout.com/icon/free/png-256/wifi-network-signal-wireless-7-16409.png",
@@ -137,23 +127,7 @@
 "name":"18+ ADULTS ONLY",
 "image":"https://www.freepnglogos.com/uploads/stamp-png/censored-stamp-png-transparent-onlygfxm-31.png",
 "url":"https://drive.google.com/uc?id=1obyGtNQYnHYLi6w8bNH-VK7uWxf8k-sa",
-"import":false},
+"import":false
+    }
+ ]
 
-
-
-
-
-
-
-
-
-
-
-
-]},
-
-
-]
-}
-]
-},
