@@ -1,0 +1,289 @@
+[
+
+{
+name    :    "True Premier Football HD 1 ",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+}, 
+
+
+{
+name    :    "True Premier Football HD 1",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"   :    "https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8",
+"referer": "https://www.keepmovie.me/"
+}, 
+ 
+
+ 
+{
+name    :    "True Premier Football HD 1",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+ 
+ 
+
+ 
+{
+name    :    "True Premier Football HD 2 ",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+
+{
+name    :    "True Premier Football HD 2",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"   :    "https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8 ",
+"referer": "https://www.keepmovie.me/"
+},
+ 
+
+{
+name    :    "True Premier Football HD 2",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+ 
+ 
+
+ 
+
+{
+name    :    "True Premier Football HD 3",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-3&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+
+ 
+{
+name    :    "True Premier Football HD 3",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"   :    "https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8 ",
+"referer":   "https://www.keepmovie.me/"
+}, 
+
+{
+name    :    "True Premier Football HD 3",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+name    :    "True Premier Football HD 4",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+ 
+ 
+{
+name    :    "True Premier Football HD 5",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+ 
+ 
+ 
+ {
+name    :    "True Sport 1(TH)",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+ 
+ 
+{
+name    :    "True Sport 1(TH)",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+ 
+ 
+ 
+ 
+{
+name    :    "True Sport 2(TH)",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+ 
+ 
+{
+name    :    "True Sport 2(TH)",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+ 
+ 
+{
+name    :    "True Sport 3(TH)",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport3&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+}, 
+
+ 
+{
+name    :    "True Sport 3(TH)",
+image   :    "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"   :    "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8",
+"referer": "https://dooball2you.com/"
+},
+ 
+ 
+
+ 
+{
+"name": "True Sport 5 (TH)",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tsport5&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+ 
+ 
+ 
+{
+"name": "True Sport 7 (TH)",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-tsport7&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+ 
+ 
+{
+name:"BEIN1 ",
+image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319",
+"url": "https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/bein1/playlist.m3u8",
+"info": "", 
+"referer": "https://dooball4k.live/",
+ "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
+ 
+{
+name:"BEIN3 ",
+image:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png?20170228140009",
+"url": "https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/bein2/playlist.m3u8",
+"info": "", 
+"referer": "https://dooball4k.live/",
+ "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
+ 
+ 
+ 
+{
+name:"BEIN1 ",
+image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name:"BEIN1 ",
+image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-bein2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name:"BEIN3 ",
+image:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png?20170228140009",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=epl-bein3&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+ 
+ 
+{
+name:"BEIN SPORT1 FR",
+"author": "",
+image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=fr-bein1hd&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name:"BEIN SPORT2 FR",
+"author": "",
+image:"https://rentapi.blackboxsys.net/images/png/fr-bein2hd.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=fr-bein2hd&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+ 
+ 
+ 
+ 
+{
+name:"TENNIS",
+"author": "",
+image:"https://rentapi.blackboxsys.net/images/png/hd-tennis.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tennis&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name:"GOLF​",
+"author": "",
+image:"https://rentapi.blackboxsys.net/images/png/hd-golfeng.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-golfeng&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+ 
+{
+name:"NBA TV",
+"author": "",
+image:"https://rentapi.blackboxsys.net/images/png/us-nba.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=us-nba&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name:"NFL TV",
+"author": "",
+image:"https://rentapi.blackboxsys.net/images/png/us-nfl.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=us-nfl&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name:"SPOTV1",
+"author": "",
+image:"https://rentapi.blackboxsys.net/images/png/hd-spotv.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-spotv&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+},
+{
+name:"SPOTV2",
+"author": "",
+image:"https://rentapi.blackboxsys.net/images/png/hd-spotv2.png",
+url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-spotv2&api_key=kmf743jnd",
+"referer": "https://ufac4.net",
+playInNatPlayer: "true"
+}
+]
